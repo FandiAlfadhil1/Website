@@ -1,1 +1,384 @@
-i
+<!doctype html>
+<html lang="ja">
+<head>
+
+<!-- 2022/12/15 SystemVer. 08.03 -->
+<!-- 2022/11/30 SystemVer. 08.02 -->
+<!-- 2022/11/30 SystemVer. 08 -->
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+
+<title>オリジナルTVアニメ「恋愛フロップス」公式サイト</title>
+
+<meta name="Description" content="隣にはいない。でも、ずっと傍にいる。オリジナルアニメ「恋愛フロップス」好評放送中！">
+<meta name="keywords" content="恋愛フロップス,アニメ,オリジナルアニメ,新番組,TVアニメ">
+
+<!-- ogp -->
+<meta property="og:type" content="website" /><!-- website or article -->
+<meta property="og:title" content="オリジナルアニメ「恋愛フロップス」公式サイト" /><!-- page name -->
+<meta property="og:description" content="隣にはいない。でも、ずっと傍にいる。オリジナルアニメ「恋愛フロップス」好評放送中！" />
+<meta property="og:image" content="https://loveflops.com/ogp.jpg">
+<meta property="og:url" content="https://loveflops.com" />
+<meta property="og:site_name" content="オリジナルアニメ「恋愛フロップス」公式サイト" />
+
+<!-- twitter card -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@loveflops_pr" />
+
+<!-- icon -->
+<link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
+<link rel="icon" type="image/png" href="/apple-touch-icon.png">
+
+<!-- css -->
+<link rel="stylesheet" media="screen" href="css/base.css?ver20221130">
+<link rel="stylesheet" media="screen" href="css/shadowbox.css">
+<link rel="stylesheet" media="screen" href="css/index_v3_r_l.css">
+<link rel="stylesheet" media="screen" href="css/loading.css?ver20221130">
+<link rel="stylesheet" media="screen" href="css/mobile_menu.css">
+<link rel="stylesheet" media="screen" href="css/particle.css">
+<link rel="stylesheet" media="screen" href="css/b_play.css">
+<link rel="stylesheet" media="screen" href="css/jssocials.css">
+<link rel="stylesheet" media="screen" href="css/jssocials-theme-flat.css">
+<link rel="stylesheet" media="screen" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css">
+
+<script type="text/javascript" src="js/jquery-3.6.1.min.js"></script>
+<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="js/jquery.cookie.js"></script>
+<script type="text/javascript" src="js/shadowbox.js"></script>
+<script type="text/javascript" src="js/jssocials.min.js"></script>
+<script type="text/javascript" src="js/imagesloaded.pkgd.min.js"></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K9EW2Y90ES"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-K9EW2Y90ES');
+</script>
+
+</head>
+
+<body data-page="index">
+<div class="index_page">
+
+<!--▼モバイル用メニュー -->
+<div class="head_bg_m">
+   <div id="mobileHeader">
+      <div class="head_m"></div>
+      <div class="menu_btn_open"></div>
+      <div class="menu_btn_close"></div>
+      <div class="overlay">
+         <div class="global_menu_load_m"></div>
+      </div>
+   </div>
+</div>
+<!--▲モバイル用メニュー -->
+
+<!-- ▼ローディング -->
+<div class="progress" id="progress">
+    <span class="progress_bar"></span>
+    <div class="progress_text_wrap particletext lines">
+	 <div class="progress_load ">LOADING</div>
+	 <div id="load_chg" class="progress_text">0%</div>
+	 </div>
+</div>
+<!-- ▲ローディング -->
+
+<div class="v2_upper">
+<div class="v2_upper_bg"></div>
+<div class="v2_upper_bg2"></div>
+
+<div class="v2_left v2_sticky">
+
+<!-- ロゴ -->
+<div class="v2_logo img_100"><img src="images/top/logo/logo_004.png" width="800" height="220" alt=""/>
+</div>
+
+<!-- OAキャッチ -->
+<div class="v2_ch01 img_100"><a href="package.html"><img src="images/top/oa_004.png" width="831" height="160" alt=""/></a></div>
+
+<!-- グローバルメニュー -->
+<ol class="v2_menu">
+   <li class="img_100"><a href="news.html"><img src="images/top/menu/b_news_on.png" width="783" height="52" alt="ニュース"/></a></li>
+	<li class="img_100"><a href="onair.html"><img src="images/top/menu/b_onair.png" width="783" height="52" alt="オンエア"/></a></li>
+	<li class="img_100"><a href="intro.html"><img src="images/top/menu/b_intro_on.png" width="783" height="52" alt="イントロダクション"/></a></li>
+	<li class="img_100"><a href="story.html"><img src="images/top/menu/b_story.png" width="783" height="52" alt="ストーリー"/></a></li>
+	<li class="img_100"><a href="chara.html"><img src="images/top/menu/b_chara_on.png" width="783" height="52" alt="キャラクター"/></a></li>
+	<li class="img_100"><a href="staff.html"><img src="images/top/menu/b_staff_on.png" width="783" height="52" alt="スタッフ＆キャスト"/></a></li>
+	<li class="img_100"><a href="music.html"><img src="images/top/menu/b_music_on.png" width="783" height="52" alt="ミュージック"/></a></li>
+	<li class="img_100"><a href="package.html"><img src="images/top/menu/b_package.png" width="783" height="52" alt="Blu-ray&DVD"/></a></li>
+	<li class="img_100"><a href="movie.html"><img src="images/top/menu/b_movie_on.png" width="783" height="52" alt="ムービー"/></a></li>
+</ol>
+   
+<!-- PV -->
+<div class="v2_pv_wrap circle_on">
+<div class="img_100"><a href="https://www.youtube.com/embed/19pB-I1pzv8?autoplay=1&rel=0" rel="shadowbox"><img src="images/top/bg_pv2.png" width="740" height="468" alt=""/>
+<div class="circle_wrap">
+<div class="circle"></div>
+    <div class="circle1"></div>
+    <div class="circle2"></div>
+	 <div class="circle_play">▶</div>
+</div>
+</a></div>
+</div>
+
+</div>
+
+<!-- ビジュアル -->
+<div class="v2_right">
+
+   <div class="v3_chara clc_visH img_100">
+   <img class="style_pc" src="images/top/visual/v_ver03.jpg" width="1600" height="2256" alt=""/>
+   <img class="style_mobile" src="images/top/visual/v_ver03m.jpg" width="1600" height="2256" alt=""/>
+   <div class="v_filter img_100 style_pc"><img src="images/top/visual/v_ver03.jpg" width="1600" height="2256" alt=""/></div>
+   <div class="v_filter img_100 style_mobile"><img src="images/top/visual/v_ver03m.jpg" width="1600" height="2256" alt=""/></div>
+   </div>
+
+<!-- スマホ -->
+   <div class="v2_logo_m img_100"><img src="images/logo/logo_001_fuchi.png" width="800" height="220" alt=""/></div>
+   <div class="v2_ch01_m img_100">
+      <div class="glitch_wrap"><img src="images/top/ch_003m.png" width="861" height="153" alt=""/>
+   </div>
+   </div>
+   <div class="v2_oa01_m img_100"><img src="images/top/oa_004.png" width="831" height="160" alt=""/></div>
+</div>
+
+<div class="v_u_t02_upper img_100">
+   <div class="glitch_wrap"><img src="images/top/ch_003.png" width="861" height="153" alt=""/>
+   </div>
+</div>
+<!--<div class="v_u_t02_down img_100"><img src="images/top/ch_002.png" width="861" height="153" alt=""/></div>-->
+</div>
+
+
+<div class="end_signal">
+
+
+<div class="upper_wrap">
+<div class="content_wrap">
+
+<div class="v_blur"></div>
+<div class="content_bg"></div>
+
+</div><!-- content_wrap -->
+</div>
+
+<!-- ▼フッダ -->
+<footer>
+<div class="f_inner">
+<div class="f_left"></div>
+<div class="f_center"></div>
+<div class="f_right"></div>
+</div>
+
+<div class="info_wrap">
+
+<!-- PV -->
+<div class="pv_wrap circle_on">
+<div class="img_100"><a href="https://www.youtube.com/embed/19pB-I1pzv8?autoplay=1&rel=0" rel="shadowbox"><img src="images/top/bg_pv2.png" width="740" height="468" alt=""/>
+<div class="circle_wrap">
+<div class="circle"></div>
+    <div class="circle1"></div>
+    <div class="circle2"></div>
+	 <div class="circle_play">▶</div>
+</div>
+</a></div>
+</div>
+<!-- PV -->
+
+<!-- news -->
+<div class="news_wrap">
+<div class="img_100"><img src="images/top/bg_news3.png" width="1004" height="600" alt=""/>
+<div class="news_inner">
+   <div class="newsList_load"></div>
+ <!-- 取り込み -->
+</div>
+<div class="b_news_more_wrap img_100"><a href="news.html"><img src="images/top/b_news_more.png" width="168" height="19" alt=""/></a></div>
+</div>
+</div>
+<!-- news -->
+
+<!-- twitter -->
+<div class="twitter_wrap">
+<div class="img_100"><img src="images/top/bg_twitter3.png" width="810" height="600" alt=""/>
+<div class="news_inner">
+<a class="twitter-timeline" href="https://twitter.com/loveflops_pr"  data-chrome="noheader nofooter transparent">Tweets by loveflops_pr</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+<div class="b_twitter_more_wrap img_100"><a href="https://twitter.com/loveflops_pr" target="_blank" rel="noopener noreferrer"><img src="images/top/b_twitter_more.png" width="168" height="21" alt=""/></a></div>
+</div>
+</div>
+<!-- twitter -->
+
+</div><!-- info_wrap -->
+
+<div class="info_wrap_m">
+
+<!-- PV -->
+<div class="pv_wrap circle_on">
+<div class="img_100"><a href="https://www.youtube.com/embed/19pB-I1pzv8?autoplay=1&rel=0" rel="shadowbox"><img src="images/top/bg_pv2.png" width="740" height="468" alt=""/>
+<div class="circle_wrap">
+<div class="circle"></div>
+    <div class="circle1"></div>
+    <div class="circle2"></div>
+	 <div class="circle_play">▶</div>
+</div>
+</a></div>
+</div>
+<!-- PV -->
+
+<!-- news -->
+<div class="news_wrap">
+<div class="img_100"><img src="images/top/bg_news_m2.png" width="810" height="469" alt=""/>
+<div class="news_inner">
+   <div class="newsList_load"></div>
+</div>
+<div class="b_news_more_wrap img_100"><a href="news.html"><img src="images/top/b_news_more.png" width="168" height="19" alt=""/></a></div>
+</div>
+</div>
+<!-- news -->
+
+<!-- twitter -->
+<div class="twitter_wrap">
+<div class="img_100"><img src="images/top/bg_twitter_m.png" width="1004" height="468" alt=""/>
+<div class="twitter_inner">
+<a class="twitter-timeline" href="https://twitter.com/loveflops_pr"  data-chrome="noheader nofooter transparent">Tweets by loveflops_pr</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+<div class="b_twitter_more_wrap img_100"><a href="https://twitter.com/loveflops_pr" target="_blank" rel="noopener noreferrer"><img src="images/top/b_twitter_more.png" width="168" height="21" alt=""/></a></div>
+</div>
+</div>
+<!-- twitter -->
+
+</div><!-- info_wrap_m -->
+
+
+<ol class="bn_wrap">
+   <li><a href="https://www.onsen.ag/program/loveflops" target="_blank" rel="noopener noreferrer"><img src="images/top/bn/bn_001.jpg" width="500" height="281" alt=""/></a></li>
+</ol>
+
+
+<div class="k001 img_100"><img src="images/foot/k_001.png" width="87" height="85" alt=""/></div>
+<div class="footer_logo img_100"><img src="images/foot/logo.png" width="484" height="100" alt=""/></div>
+<div class="share_wrap_top">
+<div id="share"></div>
+</div>
+<div class="copy">&copy;LOVE FLOPS PARTNERS</div>
+</footer>
+
+<p id="back-top" class="img_100">
+<a href="#top"><img src="images/tmp/b_top.png" width="100" height="100" alt="ページトップへ戻る" /></a>
+</p>
+
+<!--<script type="text/javascript" src="js/index3_v2_rl_09.js"></script>-->
+<script type="text/javascript" src="js/index3_v2_rl_08.js"></script>
+<script type="text/javascript" src="js/menu_overlay.js"></script>
+<script type="text/javascript" src="js/particles.min.js"></script>
+
+<!-- shadowbox -->
+<script type="text/javascript">
+   Shadowbox.init({
+	language: 'ja',
+   overlayColor: "#FFFFFF",
+	overlayOpacity:0.98,
+	players: ['img', 'html', 'iframe', 'qt', 'wmp', 'swf', 'flv']
+	});
+</script>
+
+<script>
+$(window).on('load', function() {
+   if (navigator.userAgent.match(/(iPod|iPhone|iPad)/)) {
+      $('#sb-body-inner').css({
+         'overflow': 'scroll', 
+         '-webkit-overflow-scrolling': 'touch' 
+      }); 
+   }
+});
+</script>
+
+<script>
+$(function(){
+   var vH = $(".clc_visH img").height();
+   var sH = vH * 0.155;
+   $(window).scroll(function(){
+     var obj = $('.v2_logo');
+     scroll = $(window).scrollTop();
+    if (scroll > sH) {
+      obj.addClass('isSmall');
+    } else{
+      obj.removeClass('isSmall');
+    }
+  })
+});
+</script>
+
+<script>
+$(function() {
+  size();
+  $(window).on("resize", function() {size();});
+  function size() {
+      var w = $(window).width();
+      var x = 480;
+      var xtab = 1024;
+      if (w <= x) { //以下（スマホ）
+         var gH = 30;     
+      } else if (w <= xtab) { //タブレット
+         var gH = 60;
+      } else { //以上（PC）
+         var gH = 100;
+      }
+     var gW = $(window).width();
+     var footer = gH - (gH * 2);
+     var f_left = gH * 2.182;
+     var f_right = gH * 3.52;
+     var f_center = gW - (f_left + f_right);
+     $("footer").css("margin-top" , footer + "px");
+     $("footer .f_inner").css("height" , gH + "px");
+     $(".f_inner .f_left").css("width" , f_left + "px");
+     $(".f_inner .f_right").css("width" , f_right + "px");
+     $(".f_inner .f_center").css("width" , f_center + "px");
+  }
+});
+</script>
+ 
+<!-- ニュースタイトル -->
+<script>
+$(function(){
+   var displayAmount = 10; // 表示させる記事の数 
+   $.ajax({
+      url: 'news.html',//ニュースページの場所
+      cache: false,
+      datatype: 'html',
+      success: function(html) {
+         var h = $(html).find('article');
+         for (var i = 0; i < displayAmount; i++) {
+            var day = $(h[i]).find('.news_list_day').text(); //更新日
+            var title = $(h[i]).find('.title').text(); //記事タイトル
+            var href = $(h[i]).find(".title_link"); //リンク先
+            var a = $(href).attr("href"); //href取得
+            var content = $(
+               "<article><a class='title_link' href='" + a + "'><div class='news_day'>" + day +"</div><div class='news_list_title'>" + title + "</div></a></article>"
+            );
+            $('.newsList_load').append(content); //挿入場所
+         }
+      }
+   });
+});
+</script>
+
+<!-- GSAP -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/ScrollTrigger.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/ScrollToPlugin.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/EaselPlugin.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/CustomEase.min.js"></script>
+
+</div>
+</div>
+</body>
+
+</html>
+
